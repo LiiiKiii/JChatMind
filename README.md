@@ -163,4 +163,4 @@ npm run build
 ```bash
 cd /Users/macbook/projects/JChatMind
 git status
-```
+``
